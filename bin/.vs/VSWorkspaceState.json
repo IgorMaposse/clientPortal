@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\financing",
+    "\\src\\main\\java\\com\\financing\\app",
+    "\\src\\main\\java\\com\\financing\\app\\controllers",
+    "\\src\\main\\resources",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\financing",
+    "\\src\\test\\java\\com\\financing\\app"
+  ],
+  "SelectedNode": "\\src\\test\\java\\com\\financing\\app\\FinancingApplicationTests.java",
+  "PreviewInSolutionExplorer": false
+}
